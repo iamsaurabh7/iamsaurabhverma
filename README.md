@@ -61,7 +61,7 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gucci1909&layout=compact&langs_count=6&theme=light&count_private=false" alt="gucci1909" /></p>
-<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gucci1909&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="gucci1909" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamsaurabh7&layout=compact&langs_count=6&theme=light&count_private=false" alt="iamsaurabh7" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamsaurabh7&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="iamsaurabh7" /></p> -->
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gucci1909" alt="gucci1909" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaurabh7" alt="iamsaurabh7" /></p>
